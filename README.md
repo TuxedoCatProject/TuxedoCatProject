@@ -12,9 +12,11 @@ My name is TuxCat from Cat Universe and I am coming to your world to help free y
 ![IMG_2091](https://github.com/TuxedoCatProject/TuxedoCatProject/assets/160560190/19687db9-4b1d-4419-a63e-5245a765390f)
 
 
-​To make this scenario understandable in a simpler way, I can provide an example. Hoomans use something called toothpaste, a sticky, foaming product. It has become a daily routine for them to use it in the morning. Well, I checked its background and found that it has a market size of $30 billion USD and increasing. Also found something interesting that less than 5 companies own maximum share in this sector. So, if there’s a toothpaste manufactured/marketed by TUX community, and manages to achieve tiny 0.1% of that market it could generate significant amount of revenue for the community. 
+​To make this scenario understandable in a simpler way, I can provide an example. Hoomans use something called toothpaste, a sticky, foaming product. It has become a daily routine for them to use it in the morning. Well, I checked its background and found that it has a market size of $30 billion USD and increasing. Also found something interesting that less than 5 companies own maximum share in this sector. So, if there’s a toothpaste manufactured/marketed by TUX community, and manages to achieve tiny 0.1% of that market it could generate significant amount of revenue for the community.
 
 ​While thinking of how to do revenue sharing, I found blockchain technology could help resolving the issues regarding community member's share holding for revenue distribution; thus, TUX token was created. Community members holding TUX tokens can claim their revenue share depending on their percentage of TUX token holdings.
+
+There's been an increasing interest in AI among hoomans. I would like to share some of our technology in AI sector for everyone by introducing an AI content generator. Community can create the visual version of their dreams using our AI technology and store them securely as NFTs. We will kickstart our project with this service so everyone can start creating their dreams and bring it to the world of art.
 
 How we plan to work:
 
