@@ -39,7 +39,6 @@ Taxes: 5/5 buy/sell
 
 
 
-To buy Tux tokens go to: https://rock-swap.io/
 
 <!---
 TuxedoCatProject/TuxedoCatProject is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
